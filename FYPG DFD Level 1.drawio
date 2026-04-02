@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="DXDTUnOP71sMNEuDu1I3">
-    <mxGraphModel dx="3189" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3438" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,10 +315,10 @@
             <mxPoint x="-650" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qXs2x7sOtoYxPa8w7b0Y-101" edge="1" parent="1" style="startArrow=none;endArrow=block;exitX=0.063;exitY=1.006;rounded=1;strokeWidth=2;fontStyle=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;fontSize=12;" value="Access resources">
+        <mxCell id="qXs2x7sOtoYxPa8w7b0Y-101" edge="1" parent="1" source="qXs2x7sOtoYxPa8w7b0Y-53" style="startArrow=none;endArrow=block;exitX=0.25;exitY=1;rounded=1;strokeWidth=2;fontStyle=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;curved=0;fontSize=12;" value="Access resources">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-711" y="889" />
+              <mxPoint x="-562" y="889" />
               <mxPoint x="-900" y="889" />
               <mxPoint x="-900" y="1429" />
               <mxPoint x="-430" y="1429" />
