@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7GkWxMOlNljLaFGbkPtX">
-    <mxGraphModel dx="1216" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2068" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry height="128" width="128" x="1400" y="200" as="geometry" />
         </mxCell>
         <mxCell id="7rVFwbPOSrj_SALcktCj-9" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontStyle=1;fontSize=13;" value="6.6 View Posts &amp; Chat History" vertex="1">
-          <mxGeometry height="135" width="135" x="1420" y="415" as="geometry" />
+          <mxGeometry height="135" width="135" x="820" y="470" as="geometry" />
         </mxCell>
         <mxCell id="7rVFwbPOSrj_SALcktCj-12" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-1" style="startArrow=none;endArrow=block;exitX=0.73;exitY=0.99;entryX=0;entryY=0.5;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;" target="7rVFwbPOSrj_SALcktCj-4" value="Send message">
           <mxGeometry relative="1" as="geometry" />
@@ -49,8 +49,9 @@
         <mxCell id="7rVFwbPOSrj_SALcktCj-14" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-3" style="startArrow=none;endArrow=block;exitX=0.09;exitY=0.99;entryX=0.81;entryY=1;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;" target="7rVFwbPOSrj_SALcktCj-4" value="Send message">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1069" y="629" />
-              <mxPoint x="396" y="629" />
+              <mxPoint x="1069" y="660" />
+              <mxPoint x="440" y="660" />
+              <mxPoint x="440" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -73,11 +74,13 @@
         <mxCell id="7rVFwbPOSrj_SALcktCj-18" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-5" style="startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.23;entryY=0;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;" target="7rVFwbPOSrj_SALcktCj-2" value="Delivered messages">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rVFwbPOSrj_SALcktCj-19" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.45;entryY=-0.01;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;" target="7rVFwbPOSrj_SALcktCj-3" value="Delivered messages">
+        <mxCell id="7rVFwbPOSrj_SALcktCj-19" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-5" style="startArrow=none;endArrow=block;exitX=0.909;exitY=0.727;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" target="7rVFwbPOSrj_SALcktCj-3" value="Delivered messages">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1910" y="-20" />
-              <mxPoint x="2825" y="100" />
+              <mxPoint x="740" y="120" />
+              <mxPoint x="740" y="110" />
+              <mxPoint x="1270" y="110" />
+              <mxPoint x="1270" y="629" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -93,8 +96,9 @@
         <mxCell id="7rVFwbPOSrj_SALcktCj-21" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-6" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="7rVFwbPOSrj_SALcktCj-41" value="Store pending post">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1697" y="711" />
-              <mxPoint x="1697" y="250" />
+              <mxPoint x="1390" y="711" />
+              <mxPoint x="1390" y="400" />
+              <mxPoint x="1697" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,11 +118,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rVFwbPOSrj_SALcktCj-24" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-3" style="startArrow=none;endArrow=block;exitX=0.22;exitY=0.99;entryX=0.78;entryY=1;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;" target="7rVFwbPOSrj_SALcktCj-7" value="Approve / reject">
+        <mxCell id="7rVFwbPOSrj_SALcktCj-24" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-3" style="startArrow=none;endArrow=block;entryX=0.78;entryY=1;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;" target="7rVFwbPOSrj_SALcktCj-7" value="Approve / reject">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7rVFwbPOSrj_SALcktCj-25" edge="1" parent="1" style="startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;" target="7rVFwbPOSrj_SALcktCj-8" value="Approved post">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry relative="1" x="-0.6983" y="86" as="geometry">
+            <mxPoint x="-70" y="36" as="offset" />
             <Array as="points">
               <mxPoint x="1110" y="160" />
               <mxPoint x="1360" y="160" />
@@ -138,26 +143,29 @@
             <mxPoint x="1690" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rVFwbPOSrj_SALcktCj-27" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-41" style="startArrow=none;endArrow=block;exitX=0.724;exitY=0.011;entryX=0.956;entryY=0.296;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="7rVFwbPOSrj_SALcktCj-9" value="Published posts">
+        <mxCell id="7rVFwbPOSrj_SALcktCj-27" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-41" style="startArrow=none;endArrow=block;exitX=0.978;exitY=0.092;entryX=0.956;entryY=0.296;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" value="Published posts">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1715" y="140" />
-              <mxPoint x="1902" y="140" />
-              <mxPoint x="1902" y="455" />
+              <mxPoint x="1735" y="470" />
+              <mxPoint x="1470" y="470" />
+              <mxPoint x="1470" y="770" />
+              <mxPoint x="920" y="770" />
             </Array>
+            <mxPoint x="1685.4913581595415" y="310.3313581595414" as="sourcePoint" />
+            <mxPoint x="920" y="599.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7rVFwbPOSrj_SALcktCj-28" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-9" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.181;entryY=0.983;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" target="7rVFwbPOSrj_SALcktCj-1" value="View posts">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1488" y="850" />
+              <mxPoint x="888" y="850" />
               <mxPoint x="40" y="850" />
             </Array>
             <mxPoint x="2557.000000000012" y="639.5" as="sourcePoint" />
             <mxPoint x="30" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rVFwbPOSrj_SALcktCj-29" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-9" style="startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.66;entryY=1;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;" target="7rVFwbPOSrj_SALcktCj-2" value="View posts">
+        <mxCell id="7rVFwbPOSrj_SALcktCj-29" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-9" style="startArrow=none;endArrow=block;entryX=0.66;entryY=1;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;" target="7rVFwbPOSrj_SALcktCj-2" value="View posts">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7rVFwbPOSrj_SALcktCj-30" edge="1" parent="1" source="7rVFwbPOSrj_SALcktCj-9" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.09;entryY=-0.01;rounded=0;strokeWidth=2;fontStyle=1;fontSize=13;edgeStyle=orthogonalEdgeStyle;" target="7rVFwbPOSrj_SALcktCj-3" value="View posts">
