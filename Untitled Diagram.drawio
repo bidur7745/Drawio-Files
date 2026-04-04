@@ -1,9 +1,120 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="7phh1Ij_8_fQUNQARCey">
-    <mxGraphModel>
+    <mxGraphModel dx="1022" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KaZsWpN69A-iODlWRYtL-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="User" vertex="1">
+          <mxGeometry height="784" width="35" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="WeatherUI" vertex="1">
+          <mxGeometry height="784" width="150" x="272" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-3" parent="KaZsWpN69A-iODlWRYtL-2" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="580" width="10" x="70" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="WeatherAPI" vertex="1">
+          <mxGeometry height="784" width="150" x="553" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-5" parent="KaZsWpN69A-iODlWRYtL-4" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="354" width="10" x="70" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="BrowserGeoLocation" vertex="1">
+          <mxGeometry height="784" width="165" x="753" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-7" parent="KaZsWpN69A-iODlWRYtL-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="54" width="10" x="78" y="163" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-8" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="OpenWeatherAPI" vertex="1">
+          <mxGeometry height="784" width="150" x="968" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-9" parent="KaZsWpN69A-iODlWRYtL-8" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="44" width="10" x="70" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-10" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="WeatherDatabase" vertex="1">
+          <mxGeometry height="784" width="150" x="1168" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-11" parent="KaZsWpN69A-iODlWRYtL-10" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="44" width="10" x="70" y="517" as="geometry" />
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-12" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-3" value="openWeatherSection()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-13" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-7" value="getCurrentLocation()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="602" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-14" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-7" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-3" value="latitudeAndLongitude">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-15" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-5" value="requestWeatherData(location)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="498" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-16" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-9" value="fetchWeatherData(location)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="846" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-17" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-8" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-5" value="weatherResponse">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="847" y="399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-18" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-5" style="curved=1;endArrow=block;rounded=0;" target="KaZsWpN69A-iODlWRYtL-5" value="processWeatherData()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="453" />
+              <mxPoint x="683" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-19" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-11" value="storeWeatherData()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="946" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-20" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-10" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-5" value="weatherStored">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="947" y="591" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-21" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-3" value="weatherDataRetrieved()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="499" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaZsWpN69A-iODlWRYtL-22" edge="1" parent="1" source="KaZsWpN69A-iODlWRYtL-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="KaZsWpN69A-iODlWRYtL-1" value="displayRealTimeWeather()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="231" y="699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
