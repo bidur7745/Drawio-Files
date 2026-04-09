@@ -1,9 +1,139 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="oSu9YBXly2jKGni4Svcp">
-    <mxGraphModel>
+    <mxGraphModel dx="1022" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="User" vertex="1">
+          <mxGeometry height="966" width="35" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="RegisterUI" vertex="1">
+          <mxGeometry height="966" width="150" x="253" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-3" parent="ti2_lbrNUbeXkqwyrWQx-2" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="762" width="10" x="70" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="AuthAPI" vertex="1">
+          <mxGeometry height="966" width="150" x="498" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-5" parent="ti2_lbrNUbeXkqwyrWQx-4" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="698" width="10" x="70" y="163" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="UserDatabase" vertex="1">
+          <mxGeometry height="966" width="150" x="698" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-7" parent="ti2_lbrNUbeXkqwyrWQx-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="300" width="10" x="70" y="217" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-8" parent="ti2_lbrNUbeXkqwyrWQx-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="152" width="10" x="70" y="689" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="PasswordService" vertex="1">
+          <mxGeometry height="966" width="150" x="898" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-10" parent="ti2_lbrNUbeXkqwyrWQx-9" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="44" width="10" x="70" y="581" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-11" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fillColor=light-dark(#eeeeee,#1f2020);fontColor=light-dark(#333333,#cccccc);" value="alt" vertex="1">
+          <mxGeometry height="634" width="904" x="84" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-12" parent="ti2_lbrNUbeXkqwyrWQx-11" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Email already exists]" vertex="1">
+          <mxGeometry height="20" width="874" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-13" parent="ti2_lbrNUbeXkqwyrWQx-11" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" value="[New user]" vertex="1">
+          <mxGeometry height="3" width="904" y="214" as="geometry" />
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-14" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-3" value="fillRegistrationForm()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-15" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-5" value="submitRegistrationData()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="461" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-16" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-7" value="checkEmailExists()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="684" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-17" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-7" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-5" value="emailFound">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-18" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-3" value="registrationFailed()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="462" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-19" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-1" value="showErrorMessage()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="221" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-20" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-5" value="emailNotFound">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="547" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-21" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-10" value="hashPassword()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="784" y="601" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-22" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-9" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-5" value="hashedPassword">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-23" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-8" value="saveUser()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="684" y="709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-24" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-8" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-5" value="userCreated">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="763" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-25" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-3" value="registrationSuccess()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="462" y="817" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ti2_lbrNUbeXkqwyrWQx-26" edge="1" parent="1" source="ti2_lbrNUbeXkqwyrWQx-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="ti2_lbrNUbeXkqwyrWQx-1" value="showSuccessMessage()">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="221" y="871" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
