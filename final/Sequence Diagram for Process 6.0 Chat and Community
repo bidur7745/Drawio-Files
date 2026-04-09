@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="lsD8aBebaFJb4bCFAxdW">
+    <mxGraphModel dx="1022" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SYXn5wy5wIahvzD22L2F-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="User" vertex="1">
+          <mxGeometry height="970" width="35" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ChatUI" vertex="1">
+          <mxGeometry height="970" width="150" x="227" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-3" parent="SYXn5wy5wIahvzD22L2F-2" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="766" width="10" x="70" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ChatAPI" vertex="1">
+          <mxGeometry height="970" width="150" x="444" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-5" parent="SYXn5wy5wIahvzD22L2F-4" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="702" width="10" x="70" y="163" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ConversationDB" vertex="1">
+          <mxGeometry height="970" width="150" x="644" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-7" parent="SYXn5wy5wIahvzD22L2F-6" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="44" width="10" x="70" y="217" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-8" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ParticipantDB" vertex="1">
+          <mxGeometry height="970" width="150" x="844" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-9" parent="SYXn5wy5wIahvzD22L2F-8" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="44" width="10" x="70" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-10" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="MessageDB" vertex="1">
+          <mxGeometry height="970" width="150" x="1044" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-11" parent="SYXn5wy5wIahvzD22L2F-10" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="44" width="10" x="70" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-12" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Receiver" vertex="1">
+          <mxGeometry height="970" width="150" x="1244" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-13" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-3" value="open chat">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-14" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-5" value="request conversation">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-15" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-7" value="fetch conversation">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-16" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-5" value="conversation data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="631" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-17" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-9" value="fetch participants">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-18" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-8" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-5" value="participant data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="731" y="399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-19" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-3" value="load chat">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-20" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-1" value="display messages">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="507" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-21" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-3" value="send message">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-22" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-5" value="submit message">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="419" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-23" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-11" value="store message">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-24" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-10" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-5" value="message stored">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="831" y="723" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-25" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-3" value="message delivered">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="777" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-26" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-1" value="show sent message">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="831" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYXn5wy5wIahvzD22L2F-27" edge="1" parent="1" source="SYXn5wy5wIahvzD22L2F-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="SYXn5wy5wIahvzD22L2F-12" value="show new message">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
