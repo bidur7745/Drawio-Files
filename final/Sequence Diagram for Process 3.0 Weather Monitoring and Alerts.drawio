@@ -4,100 +4,94 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Farmer" vertex="1">
-          <mxGeometry height="54" width="111" x="20" y="335" as="geometry" />
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-20" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Farmer" vertex="1">
+          <mxGeometry height="676" width="35" x="20" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Weather API" vertex="1">
-          <mxGeometry height="54" width="147" x="956" y="20" as="geometry" />
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="WeatherUI" vertex="1">
+          <mxGeometry height="676" width="150" x="261" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="3.1 Request Weather" vertex="1">
-          <mxGeometry height="164" width="164" x="299" y="101" as="geometry" />
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-22" parent="7xAswb0dUq9h8JLDgcQZ-21" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="472" width="10" x="70" y="109" as="geometry" />
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="3.2 Fetch Weather" vertex="1">
-          <mxGeometry height="148" width="148" x="605" y="109" as="geometry" />
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-23" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="WeatherAPIService" vertex="1">
+          <mxGeometry height="676" width="153" x="498" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-5" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="3.3 Analyze Weather" vertex="1">
-          <mxGeometry height="162" width="162" x="948" y="124" as="geometry" />
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-24" parent="7xAswb0dUq9h8JLDgcQZ-23" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="354" width="10" x="71" y="163" as="geometry" />
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="3.4 Generate Alerts" vertex="1">
-          <mxGeometry height="155" width="155" x="1293" y="127" as="geometry" />
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-25" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ExternalWeatherAPI" vertex="1">
+          <mxGeometry height="676" width="159" x="704" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-7" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="3.5 Show Alerts" vertex="1">
-          <mxGeometry height="125" width="125" x="1770" y="283" as="geometry" />
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-26" parent="7xAswb0dUq9h8JLDgcQZ-25" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="44" width="10" x="74" y="217" as="geometry" />
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-8" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="alerts" vertex="1">
-          <mxGeometry height="62" width="56" x="1580" y="174" as="geometry" />
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-27" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="AlertDB" vertex="1">
+          <mxGeometry height="676" width="150" x="913" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-9" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-3" value="request weather">
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-28" parent="7xAswb0dUq9h8JLDgcQZ-27" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="44" width="10" x="70" y="409" as="geometry" />
+        </mxCell>
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-29" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-20" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="7xAswb0dUq9h8JLDgcQZ-22" value="request weather info">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="215" y="183" />
+              <mxPoint x="224" y="129" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-10" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-4" value="send request">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-11" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.04;entryX=0;entryY=0.33;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-2" value="fetch forecast">
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-30" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-22" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="7xAswb0dUq9h8JLDgcQZ-24" value="send weather request">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="25" />
+              <mxPoint x="466" y="183" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-12" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=1;entryY=0.27;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-4" value="return weather data">
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-31" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-24" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="7xAswb0dUq9h8JLDgcQZ-26" value="fetch forecast">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="104" />
+              <mxPoint x="689" y="237" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-13" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0;entryY=0.5;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-5" value="send weather data">
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-32" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-25" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="7xAswb0dUq9h8JLDgcQZ-24" value="return weather data">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="205" />
+              <mxPoint x="690" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-14" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-6" value="analyze conditions">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-15" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-8" value="store alerts">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-16" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-8" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.04;entryY=0;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-7" value="fetch alerts">
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-33" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-24" style="curved=1;endArrow=block;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-24" value="analyze conditions">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1703" y="205" />
+              <mxPoint x="629" y="345" />
+              <mxPoint x="629" y="375" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-17" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0;entryY=0.44;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-7" value="send forecast">
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-34" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-24" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="7xAswb0dUq9h8JLDgcQZ-28" value="store alerts">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="330" />
-              <mxPoint x="1703" y="330" />
+              <mxPoint x="791" y="429" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-18" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-7" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=1;entryY=0.49;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-1" value="show weather">
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-35" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-27" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="7xAswb0dUq9h8JLDgcQZ-24" value="alerts stored">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1703" y="362" />
+              <mxPoint x="792" y="483" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7xAswb0dUq9h8JLDgcQZ-19" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-7" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=1;entryY=0.82;rounded=0;" target="7xAswb0dUq9h8JLDgcQZ-1" value="show alerts">
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-36" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-24" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="7xAswb0dUq9h8JLDgcQZ-22" value="send weather and alerts">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1703" y="406" />
-              <mxPoint x="215" y="406" />
+              <mxPoint x="467" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7xAswb0dUq9h8JLDgcQZ-37" edge="1" parent="1" source="7xAswb0dUq9h8JLDgcQZ-22" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="7xAswb0dUq9h8JLDgcQZ-20" value="show forecast and alerts">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="591" />
             </Array>
           </mxGeometry>
         </mxCell>
