@@ -1,201 +1,272 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="gfOSqFi_N3AwT4yP8Ft6">
-    <mxGraphModel dx="1022" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1858" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OeZCRACR6MobG8w3hXXr-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Farmer" vertex="1">
-          <mxGeometry height="54" width="111" x="20" y="612" as="geometry" />
+        <mxCell id="OeZCRACR6MobG8w3hXXr-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="Farmer" vertex="1">
+          <mxGeometry height="54" width="111" x="820" y="447.5" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="DeepSeek API" vertex="1">
-          <mxGeometry height="54" width="156" x="2616" y="33" as="geometry" />
+        <mxCell id="OeZCRACR6MobG8w3hXXr-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="DeepSeek API" vertex="1">
+          <mxGeometry height="54" width="156" x="931" y="746" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="2.1 Receive Farmer Request" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.1 Receive Farmer Request" vertex="1">
           <mxGeometry height="215" width="215" x="381" y="367" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="2.2 Generate Crop Advisory" vertex="1">
-          <mxGeometry height="211" width="211" x="846" y="125" as="geometry" />
+        <mxCell id="OeZCRACR6MobG8w3hXXr-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.2 Generate Crop Advisory" vertex="1">
+          <mxGeometry height="211" width="211" x="580" y="125" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-5" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="2.3 Retrieve Plantation Guide" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-5" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.3 Retrieve Plantation Guide" vertex="1">
           <mxGeometry height="215" width="215" x="1661" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="2.4 Generate Agro Recommendations" vertex="1">
-          <mxGeometry height="215" width="215" x="2126" y="31" as="geometry" />
+        <mxCell id="OeZCRACR6MobG8w3hXXr-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.4 Generate Agro Recommendations" vertex="1">
+          <mxGeometry height="215" width="215" x="1710" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-7" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="2.5 Deliver Advisory Result" vertex="1">
-          <mxGeometry height="205" width="205" x="2591" y="492" as="geometry" />
+        <mxCell id="OeZCRACR6MobG8w3hXXr-7" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.5 Deliver Advisory Result" vertex="1">
+          <mxGeometry height="205" width="205" x="1245" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-8" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="users" vertex="1">
-          <mxGeometry height="61" width="52" x="926" y="413" as="geometry" />
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-9" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="userDetails" vertex="1">
-          <mxGeometry height="71" width="94" x="905" y="524" as="geometry" />
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-10" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="crops" vertex="1">
-          <mxGeometry height="61" width="53" x="1363" y="207" as="geometry" />
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-11" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="plantation_guides" vertex="1">
-          <mxGeometry height="79" width="143" x="2162" y="315" as="geometry" />
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-12" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="agro_recommendations" vertex="1">
-          <mxGeometry height="83" width="182" x="2603" y="154" as="geometry" />
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-13" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="OeZCRACR6MobG8w3hXXr-3" value="view crop advisory / select crop / request recommendations">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-13" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-1" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-3" value="view crop advisory / select crop / request recommendations">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="256" y="474" />
+              <mxPoint x="850" y="620" />
+              <mxPoint x="488" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-14" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.28;entryX=0;entryY=0.37;rounded=0;" target="OeZCRACR6MobG8w3hXXr-8" value="read user account">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-15" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-3" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;curved=0;" value="read farmer profile and location">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="721" y="373" />
+              <mxPoint x="780" y="510" />
+            </Array>
+            <mxPoint x="780" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-17" edge="1" parent="1" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;curved=0;" value="profile data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="360" />
+              <mxPoint x="630" y="360" />
+              <mxPoint x="630" y="460" />
+            </Array>
+            <mxPoint x="680" y="380" as="sourcePoint" />
+            <mxPoint x="600" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-18" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-3" style="startArrow=none;endArrow=block;exitX=0;exitY=0;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;strokeWidth=2;fontSize=13;fontStyle=1" target="OeZCRACR6MobG8w3hXXr-4" value="farmer request data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="231" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-15" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0;entryY=0.42;rounded=0;" target="OeZCRACR6MobG8w3hXXr-9" value="read farmer profile and location">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-19" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-4" style="startArrow=none;endArrow=block;exitX=1;exitY=0.45;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" value="read crop suitability data">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="721" y="530" />
+              <mxPoint x="800" y="220" />
+              <mxPoint x="800" y="150" />
+              <mxPoint x="1363" y="150" />
+            </Array>
+            <mxPoint x="1363" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-20" edge="1" parent="1" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-4" value="crop records">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="255" />
+              <mxPoint x="1340" y="190" />
+              <mxPoint x="840" y="190" />
+              <mxPoint x="840" y="250" />
+            </Array>
+            <mxPoint x="1340" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-21" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-4" style="startArrow=none;endArrow=block;exitX=1;exitY=0.31;entryX=0;entryY=0.27;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-5" value="selected crop / advisory result">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="784" y="80" />
+              <mxPoint x="1227" y="80" />
+              <mxPoint x="1227" y="90" />
+              <mxPoint x="1671" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-16" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-8" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=1;entryY=0.5;rounded=0;" target="OeZCRACR6MobG8w3hXXr-3" value="user data">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-22" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-5" style="startArrow=none;endArrow=block;exitX=0;exitY=0.86;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;entryX=0.657;entryY=0.731;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" target="0mohXcqN0p2bF_tr7JMZ-9" value="read crop details">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="721" y="474" />
+              <mxPoint x="1680" y="300" />
+              <mxPoint x="1680" y="330" />
+              <mxPoint x="1416" y="330" />
+            </Array>
+            <mxPoint x="1416" y="257.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-23" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-5" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" value="read plantation guide">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1730" y="360" />
+              <mxPoint x="1470" y="360" />
+            </Array>
+            <mxPoint x="1470" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-24" edge="1" parent="1" style="startArrow=none;endArrow=block;entryX=0;entryY=0.42;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-5" value="crop detail data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416" y="150" />
+              <mxPoint x="1539" y="150" />
+              <mxPoint x="1539" y="222" />
+            </Array>
+            <mxPoint x="1416" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-25" edge="1" parent="1" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-5" value="guide data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="437" />
+              <mxPoint x="1640" y="437" />
+              <mxPoint x="1640" y="387" />
+              <mxPoint x="1746" y="387" />
+            </Array>
+            <mxPoint x="1480" y="426.72" as="sourcePoint" />
+            <mxPoint x="1745.9249999999997" y="350.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-26" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-5" style="startArrow=none;endArrow=block;exitX=0.884;exitY=0.799;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" target="OeZCRACR6MobG8w3hXXr-6" value="crop context for agro input generation">
+          <mxGeometry relative="1" x="-0.0841" y="79" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-27" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-6" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-2" value="generate fertilizer / pesticide / herbicide advice">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1818" y="850" />
+              <mxPoint x="1620" y="850" />
+              <mxPoint x="1620" y="940" />
+              <mxPoint x="1330" y="940" />
+              <mxPoint x="1330" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-17" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-9" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=1;entryY=0.74;rounded=0;" target="OeZCRACR6MobG8w3hXXr-3" value="profile data">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-28" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-2" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-6" value="generated agro recommendation">
+          <mxGeometry relative="1" x="-0.7009" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="721" y="588" />
+              <mxPoint x="1360" y="773" />
+              <mxPoint x="1360" y="910" />
+              <mxPoint x="1570" y="910" />
+              <mxPoint x="1570" y="820" />
+              <mxPoint x="1770" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-18" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="OeZCRACR6MobG8w3hXXr-4" value="farmer request data">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-29" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-6" style="startArrow=none;endArrow=block;exitX=0;exitY=0.558;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;curved=0;exitPerimeter=0;" value="store generated recommendation">
+          <mxGeometry relative="1" x="-0.2984" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1440" y="690" />
+            </Array>
+            <mxPoint x="1440" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-30" edge="1" parent="1" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-6" value="saved recommendation">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="721" y="230" />
+              <mxPoint x="1470" y="800" />
+              <mxPoint x="1470" y="740" />
+            </Array>
+            <mxPoint x="1450" y="800" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-31" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-4" style="startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0;entryY=0.23;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-7" value="crop advisory result">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-32" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-5" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-7" value="plantation guide result">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1780" y="470" />
+              <mxPoint x="1347" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-19" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.45;entryX=0;entryY=0.44;rounded=0;" target="OeZCRACR6MobG8w3hXXr-10" value="read crop suitability data">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1173" y="208" />
-            </Array>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-33" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-6" style="startArrow=none;endArrow=block;exitX=0;exitY=0;entryX=1;entryY=0;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;curved=0;" target="OeZCRACR6MobG8w3hXXr-7" value="agro recommendation result">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OeZCRACR6MobG8w3hXXr-34" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-7" style="startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=1;entryY=0.5;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-1" value="crop suggestions / plantation guide / fertilizer-pesticide-herbicide advice">
+          <mxGeometry relative="1" x="-0.3434" y="70" as="geometry">
+            <mxPoint x="2" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-20" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-10" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=1;entryY=0.83;rounded=0;" target="OeZCRACR6MobG8w3hXXr-4" value="crop records">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1173" y="377" />
-            </Array>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-5" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50.57000000000005" width="190" x="660" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-2" edge="1" parent="0mohXcqN0p2bF_tr7JMZ-5" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=13;fontStyle=1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-21" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.31;entryX=0;entryY=0.27;rounded=0;" target="OeZCRACR6MobG8w3hXXr-5" value="selected crop / advisory result">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1173" y="148" />
-              <mxPoint x="1575" y="148" />
-            </Array>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-3" edge="1" parent="0mohXcqN0p2bF_tr7JMZ-5" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=13;fontStyle=1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50.57000000000005" as="sourcePoint" />
+            <mxPoint x="190" y="50.57000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-22" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-5" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=1;entryY=0.82;rounded=0;" target="OeZCRACR6MobG8w3hXXr-10" value="read crop details">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1575" y="377" />
-            </Array>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-4" parent="0mohXcqN0p2bF_tr7JMZ-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;fontSize=13;fontStyle=1" value="User Data" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-10" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="45" width="120" x="1330" y="255.78" as="geometry" />
+        </mxCell>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-6" edge="1" parent="0mohXcqN0p2bF_tr7JMZ-10" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-23" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0;entryY=0.23;rounded=0;" target="OeZCRACR6MobG8w3hXXr-11" value="read plantation guide">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2001" y="284" />
-            </Array>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-8" edge="1" parent="0mohXcqN0p2bF_tr7JMZ-10" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="35" as="sourcePoint" />
+            <mxPoint x="120" y="35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-24" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-10" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.43;entryX=0;entryY=0.42;rounded=0;" target="OeZCRACR6MobG8w3hXXr-5" value="crop detail data">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1575" y="208" />
-            </Array>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-9" parent="0mohXcqN0p2bF_tr7JMZ-10" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;crops&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="40" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-11" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="45" width="120" x="1380" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-12" edge="1" parent="0mohXcqN0p2bF_tr7JMZ-11" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-25" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-11" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=1;entryY=0.8;rounded=0;" target="OeZCRACR6MobG8w3hXXr-5" value="guide data">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2001" y="377" />
-            </Array>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-13" edge="1" parent="0mohXcqN0p2bF_tr7JMZ-11" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="35" as="sourcePoint" />
+            <mxPoint x="120" y="35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-26" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.5;rounded=0;" target="OeZCRACR6MobG8w3hXXr-6" value="crop context for agro input generation">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2001" y="139" />
-            </Array>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-14" parent="0mohXcqN0p2bF_tr7JMZ-11" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 13px; font-weight: 700; text-align: center;&quot;&gt;plantation_guides&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="10" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-16" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="45" width="120" x="1400" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-17" edge="1" parent="0mohXcqN0p2bF_tr7JMZ-16" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-27" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=0;entryY=0.25;rounded=0;" target="OeZCRACR6MobG8w3hXXr-2" value="generate fertilizer / pesticide / herbicide advice">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2466" y="20" />
-            </Array>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-18" edge="1" parent="0mohXcqN0p2bF_tr7JMZ-16" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="35" as="sourcePoint" />
+            <mxPoint x="120" y="35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-28" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=1;entryY=0.42;rounded=0;" target="OeZCRACR6MobG8w3hXXr-6" value="generated agro recommendation">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2466" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-29" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0;entryY=0.37;rounded=0;" target="OeZCRACR6MobG8w3hXXr-12" value="store generated recommendation">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2466" y="168" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-30" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-12" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1.01;entryX=1;entryY=0.86;rounded=0;" target="OeZCRACR6MobG8w3hXXr-6" value="saved recommendation">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2466" y="306" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-31" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0;entryY=0.23;rounded=0;" target="OeZCRACR6MobG8w3hXXr-7" value="crop advisory result">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1173" y="470" />
-              <mxPoint x="2466" y="470" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-32" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0;entryY=0.3;rounded=0;" target="OeZCRACR6MobG8w3hXXr-7" value="plantation guide result">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2001" y="502" />
-              <mxPoint x="2466" y="502" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-33" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0;entryY=0.39;rounded=0;" target="OeZCRACR6MobG8w3hXXr-7" value="agro recommendation result">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2466" y="546" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-34" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-7" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=1;entryY=0.5;rounded=0;" target="OeZCRACR6MobG8w3hXXr-1" value="crop suggestions / plantation guide / fertilizer-pesticide-herbicide advice">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2466" y="639" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="0mohXcqN0p2bF_tr7JMZ-19" parent="0mohXcqN0p2bF_tr7JMZ-16" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 13px; font-weight: 700; text-align: center;&quot;&gt;agro_recommendations&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="10" y="2.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
