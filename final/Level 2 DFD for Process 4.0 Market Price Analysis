@@ -25,7 +25,7 @@
         <mxCell id="K0fp4Q8y1lWutAe5bhnD-7" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="4.5 Show Analysis" vertex="1">
           <mxGeometry height="140" width="140" x="430" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-8" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="market_prices" vertex="1">
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-8" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="market_prices" vertex="1">
           <mxGeometry height="75" width="117" x="1020" y="94.5" as="geometry" />
         </mxCell>
         <mxCell id="K0fp4Q8y1lWutAe5bhnD-9" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-3" value="send daily prices">
