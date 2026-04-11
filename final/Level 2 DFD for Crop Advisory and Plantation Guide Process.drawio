@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OeZCRACR6MobG8w3hXXr-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="Farmer" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;gradientColor=#97d077;" value="Farmer" vertex="1">
           <mxGeometry height="54" width="111" x="820" y="447.5" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="DeepSeek API" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e6d0de;strokeColor=#996185;fontSize=13;fontStyle=1;gradientColor=#d5739d;" value="DeepSeek API" vertex="1">
           <mxGeometry height="54" width="156" x="931" y="746" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.1 Receive Farmer Request" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=13;fontStyle=1" value="2.1 Receive Farmer Request" vertex="1">
           <mxGeometry height="215" width="215" x="381" y="367" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.2 Generate Crop Advisory" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1" value="2.2 Generate Crop Advisory" vertex="1">
           <mxGeometry height="211" width="211" x="580" y="125" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-5" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.3 Retrieve Plantation Guide" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-5" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" value="2.3 Retrieve Plantation Guide" vertex="1">
           <mxGeometry height="215" width="215" x="1661" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.4 Generate Agro Recommendations" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1" value="2.4 Generate Agro Recommendations" vertex="1">
           <mxGeometry height="215" width="215" x="1710" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="OeZCRACR6MobG8w3hXXr-7" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1" value="2.5 Deliver Advisory Result" vertex="1">
+        <mxCell id="OeZCRACR6MobG8w3hXXr-7" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontStyle=1" value="2.5 Deliver Advisory Result" vertex="1">
           <mxGeometry height="205" width="205" x="1245" y="520" as="geometry" />
         </mxCell>
         <mxCell id="OeZCRACR6MobG8w3hXXr-13" edge="1" parent="1" source="OeZCRACR6MobG8w3hXXr-1" style="startArrow=none;endArrow=block;rounded=1;strokeWidth=2;fontSize=13;fontStyle=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="OeZCRACR6MobG8w3hXXr-3" value="view crop advisory / select crop / request recommendations">
