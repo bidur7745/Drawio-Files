@@ -1,32 +1,32 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Vak0tIT1RqfoPq7NciIf">
-    <mxGraphModel dx="1460" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K0fp4Q8y1lWutAe5bhnD-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Farmer" vertex="1">
-          <mxGeometry height="54" width="111" x="430.5" y="420" as="geometry" />
+          <mxGeometry height="54" width="111" x="110" y="220" as="geometry" />
         </mxCell>
         <mxCell id="K0fp4Q8y1lWutAe5bhnD-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Kalimati Market Source" vertex="1">
           <mxGeometry height="54" width="226" x="20" y="105" as="geometry" />
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="4.1 Collect Prices" vertex="1">
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="4.1 Collect Prices" vertex="1">
           <mxGeometry height="140" width="140" x="416" y="62" as="geometry" />
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="4.2 Store Prices" vertex="1">
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="4.2 Store Prices" vertex="1">
           <mxGeometry height="127" width="127" x="730" y="69" as="geometry" />
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-5" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="4.3 Fetch Prices" vertex="1">
-          <mxGeometry height="130" width="130" x="729" y="246" as="geometry" />
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-5" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="4.3 Fetch Prices" vertex="1">
+          <mxGeometry height="130" width="130" x="1013.5" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="4.4 Compare Prices" vertex="1">
-          <mxGeometry height="153" width="153" x="1001" y="20" as="geometry" />
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="4.4 Compare Prices" vertex="1">
+          <mxGeometry height="153" width="153" x="740" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-7" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="4.5 Show Analysis" vertex="1">
-          <mxGeometry height="140" width="140" x="1314" y="371" as="geometry" />
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-7" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="4.5 Show Analysis" vertex="1">
+          <mxGeometry height="140" width="140" x="430" y="330" as="geometry" />
         </mxCell>
         <mxCell id="K0fp4Q8y1lWutAe5bhnD-8" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="market_prices" vertex="1">
-          <mxGeometry height="75" width="117" x="1019" y="266" as="geometry" />
+          <mxGeometry height="75" width="117" x="1020" y="94.5" as="geometry" />
         </mxCell>
         <mxCell id="K0fp4Q8y1lWutAe5bhnD-9" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-3" value="send daily prices">
           <mxGeometry relative="1" as="geometry">
@@ -38,68 +38,58 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-11" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.04;entryY=0;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-8" value="store prices">
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-11" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-4" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;" target="K0fp4Q8y1lWutAe5bhnD-8" value="store prices">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-12" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-1" style="startArrow=none;endArrow=block;exitX=0.68;exitY=-0.01;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="K0fp4Q8y1lWutAe5bhnD-5" value="select crop">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="201" />
+              <mxPoint x="185" y="210" />
+              <mxPoint x="1000" y="210" />
+              <mxPoint x="1000" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-12" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=-0.01;entryX=0;entryY=0.23;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-5" value="select crop">
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-13" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-1" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="K0fp4Q8y1lWutAe5bhnD-5" value="select timeframe">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="643" y="230" />
+              <mxPoint x="706" y="247" />
+              <mxPoint x="706" y="250" />
+              <mxPoint x="980" y="250" />
+              <mxPoint x="980" y="350" />
+            </Array>
+            <mxPoint x="1000" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-14" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-5" style="startArrow=none;endArrow=block;entryX=0.145;entryY=1;rounded=0;entryDx=0;entryDy=-2.9;entryPerimeter=0;exitX=0.215;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" target="K0fp4Q8y1lWutAe5bhnD-8" value="fetch prices">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-15" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-8" style="startArrow=none;endArrow=block;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-5" value="return prices">
+          <mxGeometry relative="1" x="-0.3793" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-16" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-5" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" target="K0fp4Q8y1lWutAe5bhnD-6" value="send history">
+          <mxGeometry relative="1" x="-0.1391" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-17" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-6" style="startArrow=none;endArrow=block;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-7" value="compare prices">
+          <mxGeometry relative="1" x="0.646" y="45" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-18" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-7" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="K0fp4Q8y1lWutAe5bhnD-1" value="show trends">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-13" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-1" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.27;entryX=0;entryY=0.81;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-5" value="select timeframe">
+        <mxCell id="K0fp4Q8y1lWutAe5bhnD-19" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-7" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;curved=0;" target="K0fp4Q8y1lWutAe5bhnD-1" value="show stats">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="643" y="407" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-14" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-5" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0;entryY=0.85;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-8" value="fetch prices">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-15" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=1;entryY=0.88;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-5" value="return prices">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="414" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-16" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-6" value="send history">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="97" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-17" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.28;entryY=0;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-7" value="compare prices">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1234" y="97" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-18" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-7" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=1.01;entryY=0.7;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-1" value="show trends">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1234" y="473" />
-              <mxPoint x="643" y="473" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K0fp4Q8y1lWutAe5bhnD-19" edge="1" parent="1" source="K0fp4Q8y1lWutAe5bhnD-7" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=1;entryY=0.99;rounded=0;" target="K0fp4Q8y1lWutAe5bhnD-1" value="show stats">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1234" y="517" />
-              <mxPoint x="643" y="517" />
+              <mxPoint x="150" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
