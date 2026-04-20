@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="dNKuDOE_NicMTOfJpk68">
+    <mxGraphModel dx="2044" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_IcteJb1B3gFknVCeh22-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1;opacity=90;" value="Admin" vertex="1">
+          <mxGeometry height="54" width="105" x="20" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);fontSize=13;fontStyle=1;opacity=90;" value="Farmer" vertex="1">
+          <mxGeometry height="54" width="111" x="1390" y="326" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1;opacity=90;" value="5.1 Manage Government Scheme Details" vertex="1">
+          <mxGeometry height="215" width="215" x="375" y="179" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1;opacity=90;" value="5.2 View Government Scheme Details" vertex="1">
+          <mxGeometry height="215" width="215" x="1080" y="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-5" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;fontStyle=1;opacity=90;" value="5.3 Apply for Government Scheme" vertex="1">
+          <mxGeometry height="215" width="215" x="1020" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-8" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-1" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-3" value="add / update / delete scheme details">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="150" />
+              <mxPoint x="483" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-9" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-3" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" value="store scheme details">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="120" />
+              <mxPoint x="770" y="120" />
+            </Array>
+            <mxPoint x="770" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-10" edge="1" parent="1" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-3" value="scheme records">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="370" />
+            </Array>
+            <mxPoint x="760" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-11" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-3" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-1" value="management confirmation">
+          <mxGeometry relative="1" x="0.0032" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="483" y="420" />
+              <mxPoint x="73" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-12" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-2" style="startArrow=none;endArrow=block;exitX=0;exitY=0.74;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-4" value="request scheme list / details">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-13" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-4" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" value="read scheme details">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="110" />
+            </Array>
+            <mxPoint x="880" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-14" edge="1" parent="1" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-4" value="scheme information">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="60" />
+            </Array>
+            <mxPoint x="830" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-15" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-4" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-2" value="display scheme details">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-16" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-2" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-5" value="submit application">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1445" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-17" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-5" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" value="read selected scheme">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="487" />
+              <mxPoint x="810" y="310" />
+            </Array>
+            <mxPoint x="810" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-18" edge="1" parent="1" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-5" value="scheme eligibility / details">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="430" />
+            </Array>
+            <mxPoint x="880" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-21" edge="1" parent="1" source="_IcteJb1B3gFknVCeh22-5" style="startArrow=none;endArrow=block;rounded=1;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;curved=0;" target="_IcteJb1B3gFknVCeh22-2" value="application confirmation / status">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-25" connectable="0" parent="1" style="group;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;" value="" vertex="1">
+          <mxGeometry height="60" width="231" x="710" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-22" edge="1" parent="_IcteJb1B3gFknVCeh22-25" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1" as="sourcePoint" />
+            <mxPoint x="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-23" edge="1" parent="_IcteJb1B3gFknVCeh22-25" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="60" as="sourcePoint" />
+            <mxPoint x="230" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_IcteJb1B3gFknVCeh22-24" parent="_IcteJb1B3gFknVCeh22-25" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;fontSize=13;fontStyle=1;opacity=90;" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;Government Scheme Data&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="41" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
